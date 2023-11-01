@@ -10,7 +10,7 @@ body {
 
 .container {
     display: flex;
-    height: 90vh;
+    min-height: 90vh;
     justify-content: center;
     align-items: center;
     background-color: hsl(212, 45%, 89%);
@@ -21,6 +21,10 @@ body {
     border-radius: 1.5rem;
     padding: 1rem;
     max-width: 21rem;
+}
+
+.desc,
+.attribution {
     text-align: center;
 }
 
@@ -39,13 +43,8 @@ p {
 }
 
 img {
-    width: 300px;
-    height: auto;
+    max-width: 100%;
     border-radius: 1rem;
-}
-
-.attribution {
-    text-align: center;
 }
 
 .attribution a {

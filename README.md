@@ -46,4 +46,4 @@ Also - staying consistent with upcoming challenges.
 
 ## Author
 
-- Frontend Mentor - [@pmigix](https://www.frontendmentor.io/profile/yourusername)
+- Frontend Mentor - [@pmigix](https://www.frontendmentor.io/profile/pmigix)
